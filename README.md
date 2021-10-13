@@ -12,5 +12,3 @@ Unity version: 2021.1.23f1
 3. 안드로이드의 경우 Developer Options를 활성화시키고 USB Debugging을 켠다.
 4. Edit > Project Settings… > Editor > Unity Remote > Device 에서 Any Android Device 선택
 5. 폰을 컴퓨터에 꽂아놓고 Unity Remote 5 앱을 켜면 게임을 실시간으로 테스트 가능
-
-"android-build" branch에 고양이 클릭 데모
