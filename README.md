@@ -3,7 +3,7 @@
 
 2D Mobile
 Unity version: 2021.1.23f1
-유니티 버전을 맞춰서 깔고, Android SDK도 설치해야 함
+유니티 버전을 맞춰서 깔고, Android SDK도 설치해야 한다.
 
 
 폰으로 실시간 테스트하기:
