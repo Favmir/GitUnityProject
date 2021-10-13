@@ -34,7 +34,7 @@ public class Clickable : MonoBehaviour
                 touchedPosition = Camera.main.ScreenToWorldPoint(touch.position);
                 touchedPosition.z = 0f;
 
-                if (Vector3.Distance(touchedPosition, transform.position) < size.x)
+                if (gameObject.GetComponent<CircleCollider2D>().OverlapPoint(touchedPosition))
                     gameObject.GetComponent<SpriteRenderer>().sprite = clickedSprite;
                 
 
